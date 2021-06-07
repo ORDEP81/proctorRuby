@@ -1,0 +1,2 @@
+class Proctor < ApplicationRecord
+end
